@@ -1,13 +1,13 @@
 <h1>Olá, me chamo Izabelly Martins ✨</h1> 
 
-<img src = "https://i.imgflip.com/65efzo.gif" width = "200px" align = "right">
+<img src = "https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width = "200px" align = "right">
 
 - 👩‍💻 Estudante de Engenharia da Computação.
 - 📚 Atualmente aprendendo HTML e CSS.
 - 🔭 Trabalhando para desenvolver minhas habilidades e me tornar uma desenvolvedora Full-Stack.
 
 
-<h1>🛠️ Tecnologias</h1>
+<h1>🛠️ Linguagens e Ferramentas</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
