@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Izabelly Martins ✨</h1> 
 
-<img src = "https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width = "200px" align = "right">
+
 
 - 👩‍💻 Estudante de Engenharia da Computação.
 - 📚 Atualmente aprendendo HTML e CSS.
