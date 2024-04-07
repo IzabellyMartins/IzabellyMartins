@@ -1,15 +1,19 @@
-<h1>Olá, me chamo Izabelly Martins </h1> 
+<h1 align="left">Olá, me chamo Izabelly Martins</h1>
 
+###
 
+<p align="left">- 👩‍💻 Estudante de Engenharia da Computação.<br>- 📚 Atualmente aprendendo HTML e CSS.</p>
 
-- 👩‍💻 Estudante de Engenharia da Computação.
-- 📚 Atualmente aprendendo HTML e CSS.
+###
 
+<h1 align="left">🛠️ Tecnologias</h1>
 
-<h1>🛠️ Linguagens e Ferramentas</h1>
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" /> src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -24,14 +28,13 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
 
+###
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/izabelly-martins-8549a1286/" target = "_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
 </div>
-<br>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzabellyMartins&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellyMartins&layout=compact&langs_count=16&theme=monokai"/>
-</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/IzabellyMartins/IzabellyMartins/output/snake.svg" alt="Snake animation" />
 
