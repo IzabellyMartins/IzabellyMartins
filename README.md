@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">🛠️ Tecnologias</h1>
+<h1 align="left">🛠️ Linguagens e Tecnologias</h1>
 
 ###
 
