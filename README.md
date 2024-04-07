@@ -4,7 +4,6 @@
 
 - 👩‍💻 Estudante de Engenharia da Computação.
 - 📚 Atualmente aprendendo HTML e CSS.
-- 🔭 Trabalhando para desenvolver minhas habilidades e me tornar uma desenvolvedora Full-Stack.
 
 
 <h1>🛠️ Linguagens e Ferramentas</h1>
