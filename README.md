@@ -1,6 +1,6 @@
 <h1 align="left">Olá, me chamo Izabelly Martins</h1>
 
-<p align="left">- 👩‍💻 Estudante de Engenharia da Computação.<br>- 📚 Atualmente aprendendo React.</p>
+<p align="left">- 👩‍💻 Estudante de Engenharia da Computação.<br>- 📚 Atualmente aprendendo Java.</p>
 
 <h1 align="left">🛠️ Linguagens e Ferramentas</h1>
 
