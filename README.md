@@ -1,4 +1,4 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=160&section=header&text=Izabelly%20Martins&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=160&section=header&text=Izabelly%20Martins&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1200&duration=5001&pause=1100&lines=Olá,+Seja+Bem-Vindo(a)!;Me+Chamo+Izabelly+Martins!)](https://git.io/typing-svg)
 
@@ -33,7 +33,7 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
 
 <img src="https://raw.githubusercontent.com/IzabellyMartins/IzabellyMartins/output/snake.svg" alt="Snake animation" />
 
