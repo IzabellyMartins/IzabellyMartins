@@ -5,7 +5,7 @@
 <br>
 
 <div>
-<p align="left">- 👩‍💻 Estudante de Engenharia da Computação.<br>- 📚 Atualmente aprendendo Java.</p>
+<p align="left">- 👩‍💻 Estudante de Engenharia da Computação - UFS.<br>- 📚 Atualmente aprendendo Java.</p>
 </div>
 
 <div align="center">
