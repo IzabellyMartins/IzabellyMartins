@@ -1,8 +1,14 @@
-<h1 align="left">Olá, me chamo Izabelly Martins</h1>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=160&section=header&text=Izabelly%20Martins&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1200&duration=5001&pause=1100&lines=Olá,+Seja+Bem-Vindo(a)!;Me+Chamo+Izabelly+Martins!)](https://git.io/typing-svg)
+
+<br>
+<div>
 <p align="left">- 👩‍💻 Estudante de Engenharia da Computação.<br>- 📚 Atualmente aprendendo Java.</p>
-
+</div>
+<div>
 <h1 align="left">🛠️ Linguagens e Ferramentas</h1>
+</div>
 
 ### Front-End:
 <div align="left">
