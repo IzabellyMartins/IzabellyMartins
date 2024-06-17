@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&color=ffffff&background=FFFFFF00&vCenter=true&lines=%F0%9F%91%8B+Olá+Seja+Bem-vindo(a)!;%E2%98%95+Me+chamo+Izabelly+Martins!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&color=FFDAB9&background=FFFFFF00&vCenter=true&lines=%F0%9F%91%8B+Olá+Seja+Bem-vindo(a)!;%E2%98%95+Me+chamo+Izabelly+Martins!;)](https://git.io/typing-svg)
 
 ## Desenvolvedora Back-End
   Me chamo Izabelly, estudante de Engenharia da computação na UFS, apaixonada pela área da tecnologia e atualmente trabalhando para desenvolver minhas habilidades e me tornar uma desenvolvedora Full-Stack.
