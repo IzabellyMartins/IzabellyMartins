@@ -1,15 +1,19 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=160&section=header&text=Izabelly%20Martins&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1200&duration=5001&pause=1100&lines=Olá,+Seja+Bem-Vindo(a)!;Me+Chamo+Izabelly+Martins!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&color=ffffff&background=FFFFFF00&vCenter=true&lines=%F0%9F%91%8B+Olá+Seja+Bem-vindo(a)!;%E2%98%95+Me+chamo+Izabelly+Martins!;)](https://git.io/typing-svg)
+
+## Desenvolvedora Back-End
+  Me chamo Izabelly, estudante de Engenharia da computação na UFS, apaixonada pela área da tecnologia e atualmente trabalhando para desenvolver minhas habilidades e me tornar uma desenvolvedora Full-Stack.
 
 <br>
+🌱 Especializando minhas habilidades no back-end
+<br>
+📚 Atualmente estudando Java + Spring
+<br>
 
-<div>
-<p align="left">- 👩‍💻 Estudante de Engenharia da Computação - UFS.<br>- 📚 Atualmente aprendendo Java.</p>
-</div>
 
-<div align="center">
- <h2 align="center">🛠️ Linguagens e Ferramentas</h2>
+
+<div align="left">
+ <h2 align="left">🛠️ Linguagens e Ferramentas</h2>
  
  
  ### Front-End:
@@ -33,7 +37,6 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
 
 
 
