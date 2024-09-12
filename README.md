@@ -7,7 +7,7 @@
 <br>
 🌱 Especializando minhas habilidades no back-end
 <br>
-📚 Atualmente estudando Prisma + Docker
+📚 Atualmente estudando Java e Spring
 <br>
 
 
