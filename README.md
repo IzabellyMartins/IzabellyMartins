@@ -41,9 +41,6 @@
 
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellyMartins&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=000000" height=170/>
-</p>
 
 
 
