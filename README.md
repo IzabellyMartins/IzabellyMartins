@@ -5,9 +5,9 @@
   Me chamo Izabelly, estudante de Engenharia da computação na UFS, apaixonada pela área da tecnologia e atualmente trabalhando para desenvolver minhas habilidades e me tornar uma desenvolvedora Full-Stack.
 
 <br>
-🌱 Especializando minhas habilidades no back-end
+🌱 Especializando minhas habilidades no back-end.
 <br>
-📚 Atualmente estudando Java e Spring
+📚 Atualmente estudando Java e Spring Boot.
 <br>
 
 
@@ -38,6 +38,15 @@
    <a href = "mailto:izabellymartins820@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/izabellymartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+  <a href="https://github.com/fravondev">
+  <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=886ce4&title_color=886ce4&theme=transparent&text_color=ffffff&bg_color=00000000&hide_border=true&username=IzabellyMartins&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR""/>
+   
+   
+  <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IzabellyMartins&layout=compact&text_color=ffffff&title_color=886ce4&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR"/>
+  
+
 
 
 
