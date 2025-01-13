@@ -40,13 +40,13 @@ Me chamo Izabelly, estudante de Engenharia da Computação na UFS, apaixonada pe
 <div style="display: flex; flex-direction: row;">
   <img 
     alt="GitHub Stats" 
-    height="200" 
+    height="100" 
     src="https://github-readme-stats.vercel.app/api?username=IzabellyMartins&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     style="margin-right: 10px;" 
   />
   <img 
     alt="GitHub Stats" 
-    height="200" 
+    height="100" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellyMartins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
