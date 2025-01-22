@@ -8,8 +8,8 @@ Me chamo Izabelly, estudante de Engenharia da Computação na UFS, apaixonada pe
 <br>
 📚 Atualmente estudando Java e Spring Boot.
 <br>
+🔗 Meu Portfólio: https://portfolio-omega-henna-79.vercel.app/
 
----
 
 <div align="left">
  <h2 align="left">🛠️ Linguagens e Ferramentas</h2>
